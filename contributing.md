@@ -1,4 +1,1 @@
-fork repo
-pull loacal
-make changes
-push to merge
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
